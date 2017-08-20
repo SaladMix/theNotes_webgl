@@ -1,0 +1,9 @@
+{
+"TOTAL_MEMORY": 268435456,
+"dataUrl": "theNotes_webGL.data.unityweb",
+"asmCodeUrl": "theNotes_webGL.asm.code.unityweb",
+"asmMemoryUrl": "theNotes_webGL.asm.memory.unityweb",
+"asmFrameworkUrl": "theNotes_webGL.asm.framework.unityweb",
+"splashScreenStyle": "Dark",
+"backgroundColor": "#222C36"
+}
