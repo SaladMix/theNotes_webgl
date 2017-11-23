@@ -4,6 +4,8 @@
 "asmCodeUrl": "theNotes_webGL.asm.code.unityweb",
 "asmMemoryUrl": "theNotes_webGL.asm.memory.unityweb",
 "asmFrameworkUrl": "theNotes_webGL.asm.framework.unityweb",
+"graphicsAPI": ["WebGL 2.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
 "splashScreenStyle": "Dark",
-"backgroundColor": "#222C36"
+"backgroundColor": "#231F20"
 }
